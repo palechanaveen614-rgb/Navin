@@ -1,0 +1,6 @@
+{
+  "name": "Navin Build AI",
+  "description": "Autonomous AI agent platform to generate, review, manage backends, and deploy responsive web apps with instant public domains and PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
